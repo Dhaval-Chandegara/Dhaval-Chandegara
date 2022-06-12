@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dhaval-Chandegara
-- 👀 I’m interested in Mobile app developing with java and kotlin.
+- 👀 I’m interested in Mobile app developing with java, kotlin and flutter.
 - 🌱 I’m currently learning cross platform app developing of flutter or react-native.
 
 <!---
